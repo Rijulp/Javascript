@@ -1,5 +1,6 @@
 # Javascript
-Day 1 
+Day 1 Tasks 
+
 1 - Intent to learn javascript
 2 - Write a javascript function to create a copy of an object.  The function will take input and an object and return a copy of the same object.
   - The copy should take care of any common references .
