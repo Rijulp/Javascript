@@ -1,0 +1,4 @@
+Intent to learn javascript :
+I want to upgrade my skills in programming for front end web development ,
+So i choose javascript since it is popular for web development since it has 65% usage respective to others.
+It is easy to learn and implement.
