@@ -16,3 +16,11 @@ Day 3 Assignment
 
 1 - First function is a function constructor, named Expense. This function will generate an object of type Expense
 2 - Second function will be used for generating an array of random expenses. The function will take an integer as input and return a single array containing random expenses. The number of elements in this array is equal to the input integer. You can use any random logic to chose category of expense, amount and description.
+
+Day 4 Assignment
+
+1 - function to find specific id.
+2 - function to get specific category with its total amount of expense.
+3 - function to update expense with specific id.
+4 - function to delete expense object by id.
+5 - function that will take a date range and return the total expenses incurred in that duration.
